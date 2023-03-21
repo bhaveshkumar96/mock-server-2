@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "username":"coreyschafer"
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "username":"coreyschafer",
+"email": "gtatterton0@ehow.com",
+      "password": "coreyschafer"
+     
     }
   ],
   "recipes": [
